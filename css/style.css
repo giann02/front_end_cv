@@ -2,6 +2,7 @@
 
 h2{
     background-color: #C4C4C4;
+    letter-spacing: 5px;
     color: #005677;
     margin-bottom: 20px;
     font-size: 20px;
@@ -15,6 +16,7 @@ span{
 }
 
 h1{
+    letter-spacing: 5px;
     background-color: #C4C4C4;
     color: #005677;
     text-align: center;
